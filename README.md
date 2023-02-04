@@ -1,6 +1,6 @@
 # Carla Model README
 
-#Model Script \
+# Model Script \
 Here we used the kaggle dataset to train our model , you will saved the model after you have trained it .Feel free to add checkpoints in between training epochs.
 
 # test environment \
